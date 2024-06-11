@@ -10,3 +10,4 @@
 - 🤓 I'm a tech enthusiast who loves exploring new technologies and interesting things.
 
 - 🎮 I also enjoy playing games from Blizzard, Riot, and others.
+  
