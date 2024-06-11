@@ -1,6 +1,12 @@
-## Hi, i'm Felipe Bochini.
+# Hi, i'm Felipe Bochini.
 
-- 🔭 Looking for a job at the moment at the Data Science field, wanting to work with Data Analysis, using tools like Python (and yours data-aim libraries), SQL, powerBI and excel 
-- 🌱 Currently learning tools for machine learning, like numpy, pandas, matplotlib, and others. 
-- 🤓 About me: Tech inthusiast, love searching for new technologies and interesting things. Also love playing games from blizzard, riot, and more.
-- 📫 How to reach me: https://www.linkedin.com/in/felipe-bochini/
+- 🔭 Looking for a Data Science job. 
+
+- 🎯 skilled in data analysis using tools like Python (including data science libraries), SQL, Power BI, and Excel.
+
+- 🌱 Currently learning machine learning tools, including NumPy, Pandas, Matplotlib, and more.
+### About me:
+
+- 🤓 I'm a tech enthusiast who loves exploring new technologies and interesting things.
+
+- 🎮 I also enjoy playing games from Blizzard, Riot, and others.
