@@ -1,8 +1,8 @@
 # Hi, i'm Felipe Bochini.
 
-- 🔭 Working as a Data Analyst. 
+- 🔭 Working as a Data Engineering. 
 
-- 🎯 skilled in Data Science using tools like Python (including ML libraries), SQL, Power BI, and Excel.
+- 🎯 skilled in Data Science using tools like Python (including ML libraries), SQL, Power BI, and Excel. I Also have a good knowledge of Cloud providers such as Azure and AWS
 
 - 🌱 Currently learning machine learning tools, including NumPy, Pandas, Matplotlib, and more.
 ### About me:
