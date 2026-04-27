@@ -1,6 +1,6 @@
 # Hi, i'm Felipe Bochini.
 
-- 🔭 Working as a Data Engineering, persuing AI Research.
+- 🔭 Working as a Data Engineering.
 
 - 🎯 Data Science Background, with a focus on machine learning. I also have good Data Engineering skills, making use of Cloud providers such as Azure and AWS
 
