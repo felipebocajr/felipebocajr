@@ -2,7 +2,7 @@
 
 - 🔭 Working as a Data Engineering. 
 
-- 🎯 skilled in Data Science using tools like Python (including ML libraries) and Data Engineering. I Also have a good knowledge of Cloud providers such as Azure and AWS
+- 🎯 Data Science Background, with a focus on machine learning. I also have good Data Engineering skills, making use of Cloud providers such as Azure and AWS
 
 - 🌱 Currently learning machine learning tools, including NumPy, Pandas, Matplotlib, and more.
 ### About me:
